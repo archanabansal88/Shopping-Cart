@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "IPhone",
+      "price": 999.0,
+      "imgUrl": "/images/mobile.png"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro 2022 (M1)",
+      "price": 1999.0,
+      "imgUrl": "/images/laptop.png"
+    },
+    {
+      "id": 3,
+      "name": "Cannon M50 Camera",
+      "price": 699.0,
+      "imgUrl": "/images/camera.png"
+    },
+    {
+      "id": 4,
+      "name": "WLS Van Gogh Denim Jacket",
+      "price": 228.0,
+      "imgUrl": "/images/jacket.png"
+    },
+    {
+        "id": 5,
+        "name": "LED Light Strips",
+        "price": 19.99,
+        "imgUrl": "/images/ledlight.png"
+      },
+      {
+        "id": 6,
+        "name": "Banana",
+        "price": 1.05,
+        "imgUrl": "/images/banana.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/images/book.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Car",
+        "price": 14000,
+        "imgUrl": "/images/car.jpg"
+      }
+  ]
